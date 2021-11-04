@@ -1,0 +1,3 @@
+[submodule "online_poker_app"]
+	path = online_poker_app
+	url = https://github.com/OndrejBelza/online_poker_app.git
